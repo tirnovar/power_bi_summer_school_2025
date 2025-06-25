@@ -118,9 +118,15 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ButtonHelp" xml:space="preserve">
-    <value>Connect to pbiAPI</value>
+    <value>Connect to pbiRESTapi</value>
   </data>
   <data name="ButtonTitle" xml:space="preserve">
-    <value>pbiAPI</value>
+    <value>pbiRESTapi</value>
+  </data>
+  <data name="AvailableFeatures" xml:space="preserve">
+    <value>Available Features</value>
+  </data>
+  <data name="Groups" xml:space="preserve">
+    <value>Groups</value>
   </data>
 </root>

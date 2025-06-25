@@ -123,4 +123,7 @@
   <data name="ButtonTitle" xml:space="preserve">
     <value>newsAPI</value>
   </data>
+  <data name="TopHeadlines" xml:space="preserve">
+    <value>Top Headlines</value>
+  </data>
 </root>

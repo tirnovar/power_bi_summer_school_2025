@@ -7,15 +7,15 @@
     <MezOutputPath>$(OutputPath)$(MsBuildProjectName).mez</MezOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <MezContent Include="pbiAPI.pq" />
-    <MezContent Include="pbiAPI16.png" />
-    <MezContent Include="pbiAPI20.png" />
-    <MezContent Include="pbiAPI24.png" />
-    <MezContent Include="pbiAPI32.png" />
-    <MezContent Include="pbiAPI40.png" />
-    <MezContent Include="pbiAPI48.png" />
-    <MezContent Include="pbiAPI64.png" />
-    <MezContent Include="pbiAPI80.png" />
+    <MezContent Include="pbiRESTapi.pq" />
+    <MezContent Include="pbiRESTapi16.png" />
+    <MezContent Include="pbiRESTapi20.png" />
+    <MezContent Include="pbiRESTapi24.png" />
+    <MezContent Include="pbiRESTapi32.png" />
+    <MezContent Include="pbiRESTapi40.png" />
+    <MezContent Include="pbiRESTapi48.png" />
+    <MezContent Include="pbiRESTapi64.png" />
+    <MezContent Include="pbiRESTapi80.png" />
     <MezContent Include="resources.resx" />
   </ItemGroup>
   <Target Name="BuildMez" AfterTargets="Build" Inputs="@(MezContent)" Outputs="$(MezOutputPath)">

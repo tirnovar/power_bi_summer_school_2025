@@ -1,5 +1,5 @@
 // Use this file to write queries to test your data connector
 let
-    result = newsAPI.Contents()
+    result = newsAPI.Navigation()
 in
-    result
+    result[Data]{0}
