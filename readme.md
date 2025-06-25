@@ -2,6 +2,8 @@
 
 ## Session - Let’s create your custom connector
 ### Presentation
+[![image](https://github.com/user-attachments/assets/8a13b070-4e84-462a-89f5-f069a2e17b1d)](https://github.com/tirnovar/power_bi_summer_school_2025/blob/main/Lets%20create%20your%20custom%20connector.pdf)
+
 [Link](https://github.com/tirnovar/power_bi_summer_school_2025/blob/main/Lets%20create%20your%20custom%20connector.pdf)
 
 ### Files
